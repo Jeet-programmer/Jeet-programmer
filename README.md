@@ -18,8 +18,7 @@
 - ⚡ Fun fact **I am funny**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeet-programmer&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeet-programmer&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
