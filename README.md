@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://key2ai.co/)
+[![MasterHead](https://github.com/Jeet-programmer/Jeet-programmer/assets/77581157/2e078a8e-62ca-4e8d-83ff-209ba819619e)](https://key2ai.co/)
 
 <h1 align="center">Hi 👋, I'm Jeet Ghosh</h1>
 <h3 align="center">A passionate developer from India</h3>
